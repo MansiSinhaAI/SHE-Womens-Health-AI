@@ -1,14 +1,13 @@
-<svg width="100%" viewBox="0 0 680 280" role="img" style="" xmlns="http://www.w3.org/2000/svg">
-<title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">SHE. final logo suggestion</title>
-<desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">SHE. in deep purple on white background with black subtitle Women's Health AI</desc>
+<svg width="100%" viewBox="0 0 680 400" role="img" style="" xmlns="http://www.w3.org/2000/svg">
+<title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">SHE. — Women's Health AI dark purple logo</title>
 
-<!-- Main logo card -->
-<rect x="165" y="30" width="350" height="220" rx="20" fill="white" stroke="#E0E0E0" stroke-width="0.5" style="fill:rgb(255, 255, 255);stroke:rgb(224, 224, 224);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<!-- Main card -->
+<rect x="165" y="40" width="350" height="320" rx="20" fill="#3B1F6B" style="fill:rgb(59, 31, 107);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
 
-<!-- SHE. in purple -->
-<text x="340" y="155" text-anchor="middle" font-family="var(--font-serif)" font-size="80" font-weight="500" letter-spacing="6" fill="#3B1F6B" style="fill:rgb(59, 31, 107);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Serif&quot;, Georgia, &quot;Times New Roman&quot;, serif;font-size:80px;font-weight:500;text-anchor:middle;dominant-baseline:auto">SHE.</text>
+<!-- SHE. in white -->
+<text x="340" y="210" text-anchor="middle" font-family="var(--font-serif)" font-size="100" font-weight="500" letter-spacing="8" fill="white" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Serif&quot;, Georgia, &quot;Times New Roman&quot;, serif;font-size:100px;font-weight:500;text-anchor:middle;dominant-baseline:auto">SHE.</text>
 
-<!-- Subtitle in black -->
-<text x="340" y="192" text-anchor="middle" font-family="var(--font-sans)" font-size="11" font-weight="400" letter-spacing="4" fill="#1a1a1a" style="fill:rgb(26, 26, 26);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, sans-serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">WOMEN'S HEALTH AI</text>
+<!-- Subtitle -->
+<text x="340" y="258" text-anchor="middle" font-family="var(--font-sans)" font-size="12" font-weight="400" letter-spacing="5" fill="rgba(255,255,255,0.65)" style="fill:rgba(255, 255, 255, 0.65);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">WOMEN'S HEALTH AI</text>
 
 </svg>
