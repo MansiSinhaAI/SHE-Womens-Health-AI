@@ -1,13 +1,26 @@
-<svg width="100%" viewBox="0 0 680 400" role="img" style="" xmlns="http://www.w3.org/2000/svg">
-<title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">SHE. — Women's Health AI dark purple logo</title>
-
-<!-- Main card -->
-<rect x="165" y="40" width="350" height="320" rx="20" fill="#3B1F6B" style="fill:rgb(59, 31, 107);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-<!-- SHE. in white -->
-<text x="340" y="210" text-anchor="middle" font-family="var(--font-serif)" font-size="100" font-weight="500" letter-spacing="8" fill="white" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Serif&quot;, Georgia, &quot;Times New Roman&quot;, serif;font-size:100px;font-weight:500;text-anchor:middle;dominant-baseline:auto">SHE.</text>
-
-<!-- Subtitle -->
-<text x="340" y="258" text-anchor="middle" font-family="var(--font-sans)" font-size="12" font-weight="400" letter-spacing="5" fill="rgba(255,255,255,0.65)" style="fill:rgba(255, 255, 255, 0.65);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">WOMEN'S HEALTH AI</text>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <!-- Background -->
+  <rect width="1080" height="1080" fill="#3B1F6B"/>
+  
+  <!-- SHE. wordmark -->
+  <text 
+    x="540" 
+    y="560" 
+    text-anchor="middle" 
+    font-family="Georgia, 'Times New Roman', serif" 
+    font-size="280" 
+    font-weight="400" 
+    letter-spacing="20"
+    fill="white">SHE.</text>
+  
+  <!-- Subtitle -->
+  <text 
+    x="540" 
+    y="700" 
+    text-anchor="middle" 
+    font-family="Arial, Helvetica, sans-serif" 
+    font-size="48" 
+    font-weight="300" 
+    letter-spacing="18"
+    fill="rgba(255,255,255,0.65)">WOMEN'S HEALTH AI</text>
 </svg>
