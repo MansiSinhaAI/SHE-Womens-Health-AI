@@ -43,17 +43,17 @@
 
 ## System Workflow
 
-User Uploads Blood Report
-↓
-OCR extracts medical values
-↓
-Backend processes biomarkers
-↓
-AI reasoning engine analyzes patterns
-↓
-LLM generates simplified explanations
-↓
-Insights displayed in conversational UI
+- User Uploads Blood Report
+- ↓
+- OCR extracts medical values
+- ↓
+- Backend processes biomarkers
+- ↓
+- AI reasoning engine analyzes patterns
+- ↓
+- LLM generates simplified explanations
+- ↓
+- Insights displayed in conversational UI
 
 ## Future Enhancements
 
