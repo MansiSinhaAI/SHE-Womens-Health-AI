@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <radialGradient id="glow" cx="35%" cy="25%" r="75%">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="48%" stop-color="#7C5CFF"/>
+      <stop offset="100%" stop-color="#1A102F"/>
+    </radialGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#07070A"/>
+  <circle cx="32" cy="32" r="25" fill="url(#glow)" filter="url(#soft)"/>
+  <path d="M44.6 17.5c-6.8 1.2-11.4 6.3-11.4 12.6 0 6.6 4.8 11.7 11.4 12.7-2.7 3.1-6.8 5.1-11.5 5.1-8.7 0-15.7-6.7-15.7-15s7-15 15.7-15c4.7 0 8.8 1.8 11.5 4.6z" fill="#07070A" opacity=".72"/>
+  <path d="M20.5 42.4c3.1 2.4 7.1 3.6 11.7 3.6 6.3 0 10.8-2.9 10.8-7.8 0-4.4-3.1-6.4-9.2-7.8l-3.7-.8c-2.8-.6-4.1-1.2-4.1-2.6 0-1.7 1.8-2.7 4.7-2.7 3.3 0 6.1.9 8.7 2.6l2.5-5.3c-3-2-6.7-3-11-3-6.5 0-10.8 3.2-10.8 8.1 0 4.2 2.9 6.4 8.6 7.7l3.8.8c3 .7 4.4 1.3 4.4 2.9 0 1.7-1.7 2.6-4.7 2.6-3.5 0-6.9-1.1-9.9-3.3l-2.4 5.3z" fill="#FFFFFF"/>
+  <path d="M48 14.8l1.5 3.2 3.3 1.4-3.3 1.5-1.5 3.2-1.5-3.2-3.3-1.5 3.3-1.4 1.5-3.2z" fill="#E5E7EB"/>
+</svg>
